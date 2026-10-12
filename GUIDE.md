@@ -46,7 +46,7 @@
 1. 在副本首页，点击 **Add file → Create new file**按钮。窗口窄时按钮可能收进菜单，试着放大窗口。
 
    ![在副本首页打开 Add file 菜单，选择 Create new file](assets/images/create.png)
-2. 在文件名输入框填写 `seeds/你的GitHub用户名或昵称.md`，假设用户名或昵称是 `八两Hertz`，就写 `八两Hertz.md`，并且撰写正文。`# `（井号后加一个空格）会把这一行变成标题，切换段落的话，在文字之间空一行即可。
+2. 在文件名输入框填写 `seeds/你的GitHub用户名或昵称.md`，假设昵称是 `八两Hertz`，就写 `seeds/八两Hertz.md`，并且撰写正文。`# `（井号后加一个空格）会把这一行变成标题，切换段落的话，在文字之间空一行即可。
 ![编辑 Markdown 文件：填写文件名和自己的文字](assets/images/create2.png)
 
 3. 点击 **Preview** 可以看到排版，点击 **Commit changes…** 提交修改。
